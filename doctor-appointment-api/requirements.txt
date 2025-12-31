@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy>=2.0
+aiomysql
+python-jose
+passlib[bcrypt]
+pydantic
+pytest
+httpx
